@@ -4,6 +4,8 @@ A **MediConnect API** é uma solução moderna desenvolvida para facilitar o ace
 
 Criada com **Laravel 12**, a aplicação oferece performance robusta, segurança aprimorada e uma base sólida para escalar soluções no setor da saúde.
 
+![Logo](imagem relacionada ao projeto MediConnect API, que conecta pacientes a serviços médicos locais usando geolocalização e agendamento de consultas.png)
+
 ---
 
 ## 📦 Stack Utilizada
